@@ -1,0 +1,353 @@
+@media (max-width: 1199px){
+
+    .domesticrighttext .domesticbtn{
+         padding: 6px 60px;
+    }
+   }
+@media (max-width: 575.98px) { 
+    #header .top-bar {display: none;}
+    #header .sign-cart li .nav-link .cart-item h5 {color: #ee3d2a;}
+    #header .navbar-collapse {
+		order: 3;
+    }
+    #header.fixed {padding: 4px 0px;}
+    #hero .banner-content h1 {font-size: 48px;}
+    #products h1 {
+    font-size: 24px;
+    }
+    #header .navbar {padding: 0;}
+    #header .sign-cart li { margin-left: 0;margin-right: 8px;}
+    #products { padding: 64px 0px;}
+    #hero .hero-slide .item .hero-banner .hero-text {width: 200px;}
+    #about .about-text {padding: 48px 16px;}
+    #about .about-text h2 {font-size: 24px;}
+    #footer .company-info{margin-bottom: 32px;}
+    #footer .form-group{margin-bottom: 0;}
+    #footer .terms {padding: 8px 0px;}
+    #hero .banner-content {padding: 16px;}
+    #header .navbar-collapse{background-color: black;}
+    #product-hero .outer-pic {padding: 16px;}
+    #product-hero .breadcrumb {padding: 24px 16px 0 16px;}
+    #product-hero .carousel-indicators li{height: 40px;}
+    #product-hero .carousel-indicators {flex-direction: row;left: 0px;bottom: -64px;top:unset;width: 100%;}
+    #product-hero .carousel {margin-left:0;}
+    #product-hero .product-description {padding:56px 16px;}
+    #product-hero .btn { margin-top: 16px;}
+    #footer .btn {width: 100%;}
+    #footer .footer-outer {padding: 0 0 48px 0;}
+    #product-hero .carousel-inner img {height: 50vh;object-fit: cover;}
+    #product-hero .carousel-indicators li:last-child {margin-right: 0;}
+    #product-hero .product-description h1 {font-size: 32px;}
+    #product-hero h3 {color: green;font-weight: bold;font-size: 24px;}
+}
+    
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    #header .navbar-collapse {
+		order: 3;
+    }
+    #header .top-bar {display: none;}
+    #header .sign-cart li .nav-link .cart-item h5 {color:#ee3d2a;}
+    #header .navbar-collapse {
+		order: 3;
+	}
+    #hero .banner-content h1 {font-size: 48px;}
+    #products h1 {
+    font-size: 24px;
+    }
+    #header .sign-cart li { margin-left: 0;margin-right: 16px;}
+    #products { padding: 64px 0px;}
+    #hero .hero-slide .item .hero-banner .hero-text {width: 200px;}
+    #about .about-text {padding: 48px 16px;}
+    #about .about-text h2 {font-size: 24px;}
+    #footer .company-info{margin-bottom: 32px;}
+    #footer .form-group{margin-bottom: 0;}
+    #footer .terms {padding: 8px 0px;}
+    #hero .banner-content {padding: 16px;}
+    #header .navbar-collapse{background-color: black;}
+    #product-hero .product-description {padding:0 48px;}
+    #product-hero .btn { margin-top: 16px;}
+    #footer .btn {width: 100%;}
+    #footer .footer-outer {padding: 0 0 48px 0;}
+    #product-hero .carousel-inner img {height: 70vh;object-fit: cover;}
+    #product-hero .carousel-indicators li:last-child {margin-right: 0;}
+    #product-hero .product-description h1 {font-size: 32px;}
+    #product-hero h3 {color: green;font-weight: bold;font-size: 24px;}
+	
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+   #header .navbar-collapse {
+		order: 3;
+    }
+    #header .navbar-collapse {
+		order: 3;
+    }
+    #header .top-bar {display: none;}
+    #header .sign-cart li .nav-link .cart-item h5 {color:#ee3d2a;}
+    #header .navbar-collapse {
+		order: 3;
+	}
+    #hero .banner-content h1 {font-size: 48px;}
+    #products h1 {
+    font-size: 24px;
+    }
+    #header .sign-cart li { margin-left: 0;margin-right: 16px;}
+    #products { padding: 64px 0px;}
+    #hero .hero-slide .item .hero-banner .hero-text {width: 200px;}
+    #about .about-text {padding: 48px 16px;}
+    #about .about-text h2 {font-size: 24px;}
+    #about .about-text p {font-size: 14px;}
+    #footer .company-info{margin-bottom: 32px;}
+    #footer .form-group{margin-bottom: 0;}
+    #footer .terms {padding: 8px 0px;}
+    #hero .banner-content {padding: 16px;}
+    #header .navbar-collapse{background-color: black;}
+    
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+    #hero .banner-content h1 {font-size: 40px;}
+    #about .about-text h2 {font-size: 32px;}
+    #about .about-text p {font-size: 14px;}
+ }
+ @media (max-width:1199px){
+    .offerimagetwo .offertextpart{
+        padding: 0 5px;
+    }
+    .offerimagetwo .offertextpart .offernamepart{
+        padding: 14px 0 0 0;
+    }
+    .offerimagetwo .offerbuttonpart{
+        padding: 14px 0 0 2px;
+    }
+ }
+ @media (max-width:991px){
+    .toptourbtn{
+        padding: 12px 16px;
+        font-size: 13px;
+    }
+    .toptourtext h5{
+        font-size: 20px;
+    }
+    .toptourtext p{
+        font-size: 13px;
+    }
+    #header .nav-link{
+        color: #fff;
+    }
+    .domesticrighttext .domesticbtn{
+        padding: 6px 38px;
+    }
+    .aboutrightimg img{
+        max-width: 100%;
+        height: auto;
+    }
+ }
+@media (max-width:767px) {
+.topdomesticbtn{
+    text-align: left;
+}
+.packagesection .package-outer .package-detail{
+    padding: 8px;
+}
+ .packagesection .package-outer .package-detail h5{
+    font-size: 13px;
+ }
+ .packagesection .package-outer .package-detail p{
+    font-size: 12px;
+ }
+ .packagesection .package-outer .package-detail h6{
+    font-size: 12px;
+ }
+ #popular .pop-outer .pop-visit{
+    height: 100%;
+ }
+ .popvisitdiv{
+    margin-top: 20px;
+ }
+ .toptourbtn{
+        padding: 12px 30px;
+        font-size: 14px;
+    }
+.toptourtext h5{
+    font-size: 24px;
+}
+.toptourtext p{
+        font-size: 14px;
+    }
+#about .right-about{
+    margin-top: 20px;
+}
+.offerimagetwo .offertextpart{
+        padding: 0 14px;
+    }
+.offerimagetwo .offertextpart .offernamepart{
+        padding: 20px 0 0 0;
+}
+.offerimagetwo .offerbuttonpart{
+        padding: 16px 0 0 5px;
+    }
+.offerimagetwo{
+    height: 100%;
+}
+.offerimageone{
+    height: 100%;
+}
+.offertextpart{
+    padding: 0 14px;
+}
+.offertextpart{
+    height: 57px;
+}
+.offertextpart .offernamepart{
+    padding: 20px 0 0 0 ;
+}
+.offerbuttonpart {
+    padding: 16px 0 0 5px;
+    }
+.offerbutton{
+        font-size: 13px;
+    font-weight: 500;
+}
+.offertextpart .offernamepart h5{
+    font-size: 14px;
+}
+.offertextpart .offerbuttonpart{
+    width: 38%;
+}
+.packagesection .package-outer .package-detail h5{
+    max-width: 119px;
+}
+.domesticdetailscard{
+    margin-top: 15px;
+}
+.domesticlefttext{
+    padding: 0;
+    border-bottom: 1px solid #EDEDED;
+    border-right: 0;
+    padding-bottom: 20px;
+}
+.domesticrighttext{
+padding-top: 20px;
+}
+.domesticrighttext .domesticbtn{
+    padding: 6px 74px;
+}
+.domesticdetailscard .col-md-3{
+    padding-left: 15px;
+}
+.mainformcard{
+    top:0;
+    position: relative;
+}
+.filtertab .custom-select{
+    margin-top: 15px;
+}
+.filtershortbtn{
+    margin-top: 15px;
+}
+.viewbox-body{
+    height: auto;
+}
+.aboutpagesection{
+    background-position: bottom 22px right;
+}
+}
+@media (max-width:575px) {
+   .packagesection .owl-prev{
+        left: -12px;
+   }
+   .packagesection .owl-next{
+    right: -12px;
+   }
+   .packagesection .package-outer .package-detail{
+    padding: 16px;
+ }
+ .packagesection .package-outer .package-detail h5{
+    font-size: 18px;
+ }
+  .packagesection .package-outer .package-detail p{
+    font-size: 14px;
+  }
+   .packagesection .package-outer .package-detail h6{
+    font-size: 14px;
+ }
+ .formselect {
+  margin-bottom: 1rem;
+}
+.call-to .search .form-group .form-control{
+    font-size:14px;
+    padding: 5px 5px
+ }
+ .formselect .form-control{
+    font-size:14px;
+     padding: 5px 5px
+ }
+ .packagesection .package-outer .package-detail h5{
+    max-width: 164px;
+ }
+ .inner_banner img{
+     object-fit: cover;
+ }
+ }
+ @media (max-width:540px) {
+.call-to .search .form-group .form-control{
+    padding: 8px;
+
+ }
+ .formselect .form-control{
+    padding: 8px;
+ }
+ }
+ @media (max-width:380px) {
+     .call-to .search .form-group .form-control{
+    font-size:13px;
+    padding: 5px 5px
+ }
+ .formselect .form-control{
+    font-size:13px;
+     padding: 5px 5px
+ }
+ .domesticpackagestabpart .nav-tabs .nav-item{
+    width:100%;
+  }
+ }
+ @media (max-width:480px) {
+    .viewbox-header:before{
+        margin-right: 10px;
+      }
+      .viewbox-header{
+          padding: 10px;
+          font-size: 8px;
+      }
+ }
+@media (max-width:360px) {
+ #hero .hero-one h1{
+    font-size: 45px;
+ }
+ .packagesection .package-outer .package-detail{
+    padding: 8px;
+}
+ .packagesection .package-outer .package-detail h5{
+    font-size: 13px;
+ }
+ .packagesection .package-outer .package-detail p{
+    font-size: 12px;
+ }
+ .packagesection .package-outer .package-detail h6{
+    font-size: 12px;
+ }
+ .faqhead .card-header{
+    font-size: 14px;
+ }
+ .packagesection .package-outer .package-detail h5{
+    max-width: 119px;
+ }
+#header .navbar-toggler{
+    margin: 0;
+}
+
+}
